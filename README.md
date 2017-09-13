@@ -1,2 +1,2 @@
 # hello-world
-Hello World pour débuter dans Github
+Petit fichier pour débuter dans Github. Cette étape fait partie du tutoriel de départ.
